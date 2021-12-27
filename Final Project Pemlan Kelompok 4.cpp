@@ -32,7 +32,7 @@ void masuk()
 		printChar('_',30);
 		printf("\n\n\t\t\tSELAMAT DATANG\n\t\t");
 		printChar('_',30);
-		printf("\n\n\t\t APAKAH SUDAH MEMILIKI AKUN ?\n\n");
+		printf("\n\n\t\t APAKAH ANDA SUDAH MEMILIKI AKUN ?\n\n");
 		printf("\t\t	 [Y]	[T]\n\t\t\t      ");
 		scanf("%s",&akun);
           if(akun=='t'||akun=='T')
