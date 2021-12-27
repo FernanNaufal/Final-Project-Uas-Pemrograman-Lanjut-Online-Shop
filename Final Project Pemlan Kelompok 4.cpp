@@ -262,7 +262,7 @@ void hapusbarang(){
 	if(flag == 0){
 		printf("\n\n\t\tBarang tidak ditemukan");
 	}
-	printf("\n\n\t\t\tEnter any keys to continue.......");
+	printf("\n\n\t\t\tEnter any keys to continue........");
 }
 
 void search(){
