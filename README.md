@@ -8,22 +8,22 @@ ___
 ![alternate text](https://user-images.githubusercontent.com/96459251/147481089-304478f2-5257-48a5-a759-306f01739d9c.png)
 
 ### Menu utama
-![alternate text](./menuutama.png)
+![alternate text](https://user-images.githubusercontent.com/96459251/147481103-abb4fcc8-2cd0-4ece-be5c-b429ea0ebab2.png)
 ### Menu Penjual
-![menu penjual](./menupenjual.png)
+![menu penjual](https://user-images.githubusercontent.com/96459251/147481098-eb1d069c-98ec-4cd5-a2fb-653b0d6002a3.png)
 ### Menu input data
-![alternate text](./inputdata.png)
+![alternate text](https://user-images.githubusercontent.com/96459251/147481092-9d16a483-9c6a-4c60-afac-18f14c39704f.png)
 ### Menu hapus data
-![alternate text](./hapusdata.png)
+![alternate text](https://user-images.githubusercontent.com/96459251/147481089-304478f2-5257-48a5-a759-306f01739d9c.png)
 ### Menu searcch
-![alternate text](./menusearch.png)
+![alternate text](https://user-images.githubusercontent.com/96459251/147481101-6e14dba9-7f0d-483c-bae3-0bba7cf8e630.png)
 ### Menu Update stock
-![alternate text](./updatestock.png)
+![alternate text](https://user-images.githubusercontent.com/96459251/147481108-f12c319f-3059-41e3-b8d5-132d3493fe90.png)
 ### Menu transaksi
-![alternate text](./transaksi.png)
+![alternate text](https://user-images.githubusercontent.com/96459251/147481105-ab84ce2e-bd8a-4ee5-a4f3-c16fdbe19ee0.png)
 
 ### Display data
-![alternate text](./displaydata.png)
+![alternate text](https://user-images.githubusercontent.com/96459251/147481081-5fd52756-736a-4658-8c31-376c9e597ecc.png)
 
 
 
