@@ -5,7 +5,8 @@ ___
 
 ### gambar saat program berjalan
 ### Menu login
-![alternate text](./login.png)
+![alternate text](https://user-images.githubusercontent.com/96459251/147481089-304478f2-5257-48a5-a759-306f01739d9c.png)
+
 ### Menu utama
 ![alternate text](./menuutama.png)
 ### Menu Penjual
