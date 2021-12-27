@@ -70,7 +70,7 @@ void masuk()
 					{ }
 					else
 					 {
-						printf("paswword mengandung angka besar & kecil, huruf, dan symbol\n");
+						printf("paswword harus terdiri dari angka besar & kecil, huruf, dan symbol\n");
 						continue;
 					 } 
 						 strcpy(passtemp,password);
